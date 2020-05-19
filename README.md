@@ -3,7 +3,7 @@
 ### 制作背景
 書籍管理をするために作成
 ## DEMO
-![sliderdemo 2](https://user-images.githubusercontent.com/57050608/82317515-56363e00-9a09-11ea-8d33-db88a7ccf935.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/57050608/82320232-e6768200-9a0d-11ea-89b2-c18a09f06410.gif)
 
 ## 開発環境
 swift5
